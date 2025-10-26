@@ -3,7 +3,7 @@ let topo;
 let loading = false;
 let fltered = false;
 
-const url = "https://pokeapi.co/api/v2";
+const url = "https://pokeapi.co/api/v2/";
 
 const allTypes = [
     "steel",
